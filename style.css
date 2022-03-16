@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Give+You+Glory&family=Josefin+Sans:wght@300&display=swap');
+
+/* * {
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 2%;
+    padding: 0;
+    background-color: black;
+    font-size: large;
+    color: white;
+} */
+/* ----------------------------------------------------------------
+EJERCICIOS CLASE 01-11 DONDE ARRANCAMOS CON DOM.JS 
+
+.tete{
+    color: rgb(194, 216, 0);
+}
+.ok {
+    color: rgb(30, 138, 210);
+}
+-------------------------------------------------------------------*/
+
+/* ----------------------------------------------------------------
+ESTO LO AGREGUE PARA LA CLASE DEL 03-11 PARA EL DEBER DE C° A °F CON DOM.JS 
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color: darkgoldenrod;
+    display: flex;
+    flex-direction: column;
+}
+---------------------------------------------------------------------*/
